@@ -1,0 +1,36 @@
+button {
+    color: black;
+}
+
+body{
+    background-color: dimgray;
+}
+
+.col-md-4{
+    background-color: rgba(44, 40, 42, 0.778);
+}
+
+.card-body{
+    background-color: beige;
+    
+}
+
+.card-title{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    
+    
+}
+
+h5{
+ 
+    border: solid 8px;
+    
+    
+    
+
+
+}
